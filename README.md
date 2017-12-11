@@ -1,4 +1,7 @@
 # dev-setup-laravel
+
+## Note: this is a very dirty script, please read the setup.sh before cloning and using, if you don undertand what you see, I would advise you not to run it!!!
+
 Setup for laravel environment using php7.2 mysql nginx dnsmasq dhcp composer codesniffer phpmyadmin
 
 Clone repo wherever then cd into folder dev-setup-laravel the run the follwing on command line:
