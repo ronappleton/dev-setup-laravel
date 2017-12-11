@@ -34,3 +34,5 @@ sudo dhclient
 sudo cp dynamic.dev.conf /etc/nginx/sites-available/dynamic.dev.conf
 
 sudo ln -s /etc/nginx/sites-available/dynamic.dev.conf /etc/nginx/sites-enabled/
+
+sudo systemctl restart nginx
