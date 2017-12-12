@@ -36,3 +36,11 @@ sudo cp dynamic.dev.conf /etc/nginx/sites-available/dynamic.dev.conf
 sudo ln -s /etc/nginx/sites-available/dynamic.dev.conf /etc/nginx/sites-enabled/
 
 sudo systemctl restart nginx
+
+sudo apt install -y -f make
+
+sudo apt install -y -f ruby-dev
+
+sudo apt install -y -f sqlite3-dev
+
+sudo gem install mailcatcher
