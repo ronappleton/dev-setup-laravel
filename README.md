@@ -1,6 +1,6 @@
 # dev-setup-laravel
 
-## Not: this is a quick dirty script as is, be warned.
+## Note: this is a quick dirty script as is, be warned.
 
 Setup for laravel environment using php7.2 mysql nginx dnsmasq dhcp composer codesniffer phpmyadmin ruby-dev sqlite3(ruby) make mailcatcher
 
