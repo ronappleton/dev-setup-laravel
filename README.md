@@ -1,5 +1,5 @@
 # dev-setup-laravel
-Setup for laravel environment using php7.2 mysql nginx dnsmasq dhcp composer codesniffer phpmyadmin make ruby sqlite3(ruby) mailcatcher
+Setup for laravel environment using php7.2 mysql nginx dnsmasq dhcp composer codesniffer phpmyadmin
 
 Clone repo wherever then cd into folder dev-setup-laravel the run the follwing on command line:
 
